@@ -1,0 +1,6 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "kub-at/php-simple-html-dom-parser": "^1.8"
+    }
+}
